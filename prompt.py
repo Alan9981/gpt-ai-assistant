@@ -67,13 +67,13 @@
 <script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/diffs-cb311d4f13a6.js"></script>
   
 
-  <title>ChatGpt-LineBot/vercel.json at main · JokerWuXin/ChatGpt-LineBot</title>
+  <title>ChatGpt-LineBot/prompt.py at main · JokerWuXin/ChatGpt-LineBot</title>
 
 
 
     
 
-  <meta name="request-id" content="295F:7898:235217:2A4373:63EB6A70" data-turbo-transient="true" /><meta name="html-safe-nonce" content="305cb25764069b293bc13d57c7d6f4fe98447143d3fa0f197cfeb85c27a8bba4" data-turbo-transient="true" /><meta name="visitor-payload" content="eyJyZWZlcnJlciI6Imh0dHBzOi8vZ2l0aHViLmNvbS9Kb2tlcld1WGluL0NoYXRHcHQtTGluZUJvdCIsInJlcXVlc3RfaWQiOiIyOTVGOjc4OTg6MjM1MjE3OjJBNDM3Mzo2M0VCNkE3MCIsInZpc2l0b3JfaWQiOiI3MjU4MjM4OTIzNjU2ODgzOTQ4IiwicmVnaW9uX2VkZ2UiOiJqYXBhbmVhc3QiLCJyZWdpb25fcmVuZGVyIjoiaWFkIn0=" data-turbo-transient="true" /><meta name="visitor-hmac" content="79ed8d84be39bc88ccdede927fb6a3194b2008b11324128520015536643fe974" data-turbo-transient="true" />
+  <meta name="request-id" content="2966:2AE3:386C1A:3F6EF0:63EB6A7A" data-turbo-transient="true" /><meta name="html-safe-nonce" content="305cb25764069b293bc13d57c7d6f4fe98447143d3fa0f197cfeb85c27a8bba4" data-turbo-transient="true" /><meta name="visitor-payload" content="eyJyZWZlcnJlciI6Imh0dHBzOi8vZ2l0aHViLmNvbS9Kb2tlcld1WGluL0NoYXRHcHQtTGluZUJvdC90cmVlL21haW4vYXBpIiwicmVxdWVzdF9pZCI6IjI5NjY6MkFFMzozODZDMUE6M0Y2RUYwOjYzRUI2QTdBIiwidmlzaXRvcl9pZCI6IjcyNTgyMzg5MjM2NTY4ODM5NDgiLCJyZWdpb25fZWRnZSI6ImphcGFuZWFzdCIsInJlZ2lvbl9yZW5kZXIiOiJpYWQifQ==" data-turbo-transient="true" /><meta name="visitor-hmac" content="e6a2ee4e43d51a745a75e13216cc456e8c1eaa34a065cb46bbdfdc66a302dc69" data-turbo-transient="true" />
 
 
     <meta name="hovercard-subject-tag" content="repository:579339428" data-turbo-transient>
@@ -112,11 +112,11 @@
     <link rel="fluid-icon" href="https://github.com/fluidicon.png" title="GitHub">
     <meta property="fb:app_id" content="1401488693436528">
     <meta name="apple-itunes-app" content="app-id=1477376905" />
-      <meta name="twitter:image:src" content="https://opengraph.githubassets.com/99cd009f78144257dbe882d3a8e30301c148420fd5826a9abcf998e232c6dbad/JokerWuXin/ChatGpt-LineBot" /><meta name="twitter:site" content="@github" /><meta name="twitter:card" content="summary_large_image" /><meta name="twitter:title" content="ChatGpt-LineBot/vercel.json at main · JokerWuXin/ChatGpt-LineBot" /><meta name="twitter:description" content="Contribute to JokerWuXin/ChatGpt-LineBot development by creating an account on GitHub." />
-      <meta property="og:image" content="https://opengraph.githubassets.com/99cd009f78144257dbe882d3a8e30301c148420fd5826a9abcf998e232c6dbad/JokerWuXin/ChatGpt-LineBot" /><meta property="og:image:alt" content="Contribute to JokerWuXin/ChatGpt-LineBot development by creating an account on GitHub." /><meta property="og:image:width" content="1200" /><meta property="og:image:height" content="600" /><meta property="og:site_name" content="GitHub" /><meta property="og:type" content="object" /><meta property="og:title" content="ChatGpt-LineBot/vercel.json at main · JokerWuXin/ChatGpt-LineBot" /><meta property="og:url" content="https://github.com/JokerWuXin/ChatGpt-LineBot" /><meta property="og:description" content="Contribute to JokerWuXin/ChatGpt-LineBot development by creating an account on GitHub." />
+      <meta name="twitter:image:src" content="https://opengraph.githubassets.com/99cd009f78144257dbe882d3a8e30301c148420fd5826a9abcf998e232c6dbad/JokerWuXin/ChatGpt-LineBot" /><meta name="twitter:site" content="@github" /><meta name="twitter:card" content="summary_large_image" /><meta name="twitter:title" content="ChatGpt-LineBot/prompt.py at main · JokerWuXin/ChatGpt-LineBot" /><meta name="twitter:description" content="Contribute to JokerWuXin/ChatGpt-LineBot development by creating an account on GitHub." />
+      <meta property="og:image" content="https://opengraph.githubassets.com/99cd009f78144257dbe882d3a8e30301c148420fd5826a9abcf998e232c6dbad/JokerWuXin/ChatGpt-LineBot" /><meta property="og:image:alt" content="Contribute to JokerWuXin/ChatGpt-LineBot development by creating an account on GitHub." /><meta property="og:image:width" content="1200" /><meta property="og:image:height" content="600" /><meta property="og:site_name" content="GitHub" /><meta property="og:type" content="object" /><meta property="og:title" content="ChatGpt-LineBot/prompt.py at main · JokerWuXin/ChatGpt-LineBot" /><meta property="og:url" content="https://github.com/JokerWuXin/ChatGpt-LineBot" /><meta property="og:description" content="Contribute to JokerWuXin/ChatGpt-LineBot development by creating an account on GitHub." />
       
     <link rel="assets" href="https://github.githubassets.com/">
-      <link rel="shared-web-socket" href="wss://alive.github.com/_sockets/u/34676256/ws?session=eyJ2IjoiVjMiLCJ1IjozNDY3NjI1NiwicyI6MTA1MzAxNzU2MCwiYyI6MTQ5ODMwNDgwMiwidCI6MTY3NjM3MjU5Mn0=--7a7e64f20931f454c71de486ea57686e874c390853a7496bfc64508200c4f1c5" data-refresh-url="/_alive" data-session-id="6b20a4d0d87e30cbe51d657758f1355b4c02778693af4c872742e7915450b741">
+      <link rel="shared-web-socket" href="wss://alive.github.com/_sockets/u/34676256/ws?session=eyJ2IjoiVjMiLCJ1IjozNDY3NjI1NiwicyI6MTA1MzAxNzU2MCwiYyI6MjU2MDk0Njg1OCwidCI6MTY3NjM3MjYwMn0=--0e914089cc11544ffdb92febdbfa9e372a43e2e5ce8d57af9f30eec84f071093" data-refresh-url="/_alive" data-session-id="6b20a4d0d87e30cbe51d657758f1355b4c02778693af4c872742e7915450b741">
       <link rel="shared-web-socket-src" href="/assets-cdn/worker/socket-worker-d7c2fe14563a.js">
 
 
@@ -146,7 +146,7 @@
 
 
 
-    <link rel="canonical" href="https://github.com/JokerWuXin/ChatGpt-LineBot/blob/main/vercel.json" data-turbo-transient>
+    <link rel="canonical" href="https://github.com/JokerWuXin/ChatGpt-LineBot/blob/main/api/prompt.py" data-turbo-transient>
   <meta name="turbo-body-classes" content="logged-in env-production page-responsive page-blob">
 
 
@@ -239,7 +239,7 @@
           spellcheck="false"
           autocomplete="off"
         >
-        <input type="hidden" value="-V_5L1cUwLv0biiePiZSLExj4L9lna4WI3tg5JF3HZwKcOZ6oIMgUhujTIXYWm36Ahf9TO-i6Zw1ybV_B-m2kg" data-csrf="true" class="js-data-jump-to-suggestions-path-csrf" />
+        <input type="hidden" value="B1bJovMqeE8NzaqFm5TrgeXF3ERczS6UzMGfb5Fp_5L0edb3BL2YpuIAzp596NRXq7HBt9byaR7ac0r0B_dUnA" data-csrf="true" class="js-data-jump-to-suggestions-path-csrf" />
         <input type="hidden" class="js-site-search-type-field" name="type" >
             <svg xmlns="http://www.w3.org/2000/svg" width="22" height="20" aria-hidden="true" class="mr-1 header-search-key-slash"><path fill="none" stroke="#979A9C" opacity=".4" d="M3.5.5h12c1.7 0 3 1.3 3 3v13c0 1.7-1.3 3-3 3h-12c-1.7 0-3-1.3-3-3v-13c0-1.7 1.3-3 3-3z"></path><path fill="#979A9C" d="M11.8 6L8 15.1h-.9L10.8 6h1z"></path></svg>
 
@@ -438,7 +438,7 @@
 
   <a class="js-selected-navigation-item Header-link mt-md-n3 mb-md-n3 py-2 py-md-3 mr-0 mr-md-3 border-top border-md-top-0 border-white-fade" data-ga-click="Header, click, Nav menu - item:explore" data-turbo="false" data-selected-links="/explore /trending /trending/developers /integrations /integrations/feature/code /integrations/feature/collaborate /integrations/feature/ship showcases showcases_search showcases_landing /explore" href="/explore">Explore</a>
 
-      <a class="js-selected-navigation-item Header-link d-block d-md-none py-2 py-md-3 border-top border-md-top-0 border-white-fade" data-ga-click="Header, click, Nav menu - item:Sponsors" data-hydro-click="{&quot;event_type&quot;:&quot;sponsors.button_click&quot;,&quot;payload&quot;:{&quot;button&quot;:&quot;HEADER_SPONSORS_DASHBOARD&quot;,&quot;sponsorable_login&quot;:&quot;alan0722&quot;,&quot;originating_url&quot;:&quot;https://github.com/JokerWuXin/ChatGpt-LineBot/blob/main/vercel.json&quot;,&quot;user_id&quot;:34676256}}" data-hydro-click-hmac="c64362ad208daf13798307cb07d1d2ce3c38f9cbc4e67b30eb7e581c4a47ef7e" data-turbo="false" data-selected-links=" /sponsors/accounts" href="/sponsors/accounts">Sponsors</a>
+      <a class="js-selected-navigation-item Header-link d-block d-md-none py-2 py-md-3 border-top border-md-top-0 border-white-fade" data-ga-click="Header, click, Nav menu - item:Sponsors" data-hydro-click="{&quot;event_type&quot;:&quot;sponsors.button_click&quot;,&quot;payload&quot;:{&quot;button&quot;:&quot;HEADER_SPONSORS_DASHBOARD&quot;,&quot;sponsorable_login&quot;:&quot;alan0722&quot;,&quot;originating_url&quot;:&quot;https://github.com/JokerWuXin/ChatGpt-LineBot/blob/main/api/prompt.py&quot;,&quot;user_id&quot;:34676256}}" data-hydro-click-hmac="bf986d1c322e929f2548bf31332f48c85f982dfb9f494b07895d7e2cb825a77b" data-turbo="false" data-selected-links=" /sponsors/accounts" href="/sponsors/accounts">Sponsors</a>
 
     <a class="Header-link d-block d-md-none mr-0 mr-md-3 py-2 py-md-3 border-top border-md-top-0 border-white-fade" data-turbo="false" href="/settings/profile">Settings</a>
 
@@ -446,7 +446,7 @@
       <img class="avatar avatar-user" loading="lazy" decoding="async" src="https://avatars.githubusercontent.com/u/34676256?s=40&amp;v=4" width="20" height="20" alt="@alan0722" />
       alan0722
 </a>
-    <!-- '"` --><!-- </textarea></xmp> --></option></form><form data-turbo="false" action="/logout" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="MlEKA4qcSorNppGT1l-bl6r6Y35jwmxC57TUIZRq441xbJl0Ywsebf1bTAAZGUNrqUCIOoXtxTSoDrJF2O4Qmw" />
+    <!-- '"` --><!-- </textarea></xmp> --></option></form><form data-turbo="false" action="/logout" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="CgsoIoA2wrN46l2yr-d4GExn0Ys_fMivBlBhw7cidoBJNrtVaaGWVEgXgCFgoaDkT906z9lTYdlJ6gen-6aFlg" />
       <button
         type="submit"
         class="Header-link mr-0 mr-md-3 py-2 py-md-3 border-top border-md-top-0 border-white-fade d-md-none btn-link d-block width-full text-left"
@@ -481,7 +481,7 @@
     <div class="Header-item mr-0 mr-md-3 flex-order-1 flex-md-order-none">
         
 
-<notification-indicator data-channel="eyJjIjoibm90aWZpY2F0aW9uLWNoYW5nZWQ6MzQ2NzYyNTYiLCJ0IjoxNjc2MzcyNTkyfQ==--66f1c98b367c1a01040d791194f5780aab49f0f1c953ef0dc324bad5c23b6954" data-indicator-mode="none" data-tooltip-global="You have unread notifications" data-tooltip-unavailable="Notifications are unavailable at the moment." data-tooltip-none="You have no unread notifications" data-fetch-indicator-src="/notifications/indicator" data-view-component="true" class="js-socket-channel">
+<notification-indicator data-channel="eyJjIjoibm90aWZpY2F0aW9uLWNoYW5nZWQ6MzQ2NzYyNTYiLCJ0IjoxNjc2MzcyNjAyfQ==--dbabbcb2c9d2c8a3332d35cb0bcaf95cb5e7953204e9c65d22c160119e29f50d" data-indicator-mode="none" data-tooltip-global="You have unread notifications" data-tooltip-unavailable="Notifications are unavailable at the moment." data-tooltip-none="You have no unread notifications" data-fetch-indicator-src="/notifications/indicator" data-view-component="true" class="js-socket-channel">
   <a id="AppHeader-notifications-button" href="/notifications"
     class="Header-link notification-indicator position-relative tooltipped tooltipped-sw"
 
@@ -639,7 +639,7 @@
   <details-dialog class="command-palette-details-dialog d-flex flex-column flex-justify-center height-fit" aria-label="command palette">
     <command-palette
       class="command-palette color-bg-default rounded-3 border color-shadow-small"
-      return-to=/JokerWuXin/ChatGpt-LineBot/blob/main/vercel.json
+      return-to=/JokerWuXin/ChatGpt-LineBot/blob/main/api/prompt.py
       user-id="34676256"
       activation-hotkey="Mod+k,Mod+Alt+k"
       command-mode-hotkey="Mod+Shift+k"
@@ -796,7 +796,7 @@
     <button aria-keyshortcuts="Control+Backspace" data-action="click:command-palette-input#onClear keypress:command-palette-input#onClear" data-target="command-palette-input.clearButton" id="command-palette-clear-button" hidden="hidden" type="button" data-view-component="true" class="btn-octicon command-palette-input-clear-button">      <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-x-circle-fill">
     <path fill-rule="evenodd" d="M2.343 13.657A8 8 0 1113.657 2.343 8 8 0 012.343 13.657zM6.03 4.97a.75.75 0 00-1.06 1.06L6.94 8 4.97 9.97a.75.75 0 101.06 1.06L8 9.06l1.97 1.97a.75.75 0 101.06-1.06L9.06 8l1.97-1.97a.75.75 0 10-1.06-1.06L8 6.94 6.03 4.97z"></path>
 </svg>
-</button>    <tool-tip id="tooltip-b1f13a84-317a-4a9e-b30f-0c8e21867f7e" for="command-palette-clear-button" data-direction="w" data-type="label" data-view-component="true" class="sr-only position-absolute">Clear Command Palette</tool-tip>
+</button>    <tool-tip id="tooltip-25ca4235-3e03-471a-ae82-14c07f0a5a34" for="command-palette-clear-button" data-direction="w" data-type="label" data-view-component="true" class="sr-only position-absolute">Clear Command Palette</tool-tip>
 </div>
       </command-palette-input>
 
@@ -1606,7 +1606,7 @@
         data-action="toggle:notifications-list-subscription-form#detailsToggled"
       >
 
-        <summary data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;WATCH_BUTTON&quot;,&quot;repository_id&quot;:579339428,&quot;originating_url&quot;:&quot;https://github.com/JokerWuXin/ChatGpt-LineBot/blob/main/vercel.json&quot;,&quot;user_id&quot;:34676256}}" data-hydro-click-hmac="7c9a522a59599417b6a836a6232714de73fae84ce6ed0fc0fe6b0d9bfcfd6080" data-ga-click="Repository, click Watch settings, action:blob#show" aria-label="Notification settings" data-view-component="true" class="btn-sm btn">    <span data-menu-button>
+        <summary data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;WATCH_BUTTON&quot;,&quot;repository_id&quot;:579339428,&quot;originating_url&quot;:&quot;https://github.com/JokerWuXin/ChatGpt-LineBot/blob/main/api/prompt.py&quot;,&quot;user_id&quot;:34676256}}" data-hydro-click-hmac="4fe9c51dc5a5c9cf010aa4a28d97c1ac1256b2c89cd18cb009bb0592abfea506" data-ga-click="Repository, click Watch settings, action:blob#show" aria-label="Notification settings" data-view-component="true" class="btn-sm btn">    <span data-menu-button>
             <span
               hidden
               
@@ -1658,7 +1658,7 @@
             </header>
 
             <div class="SelectMenu-list">
-              <!-- '"` --><!-- </textarea></xmp> --></option></form><form data-target="notifications-list-subscription-form.form" data-action="submit:notifications-list-subscription-form#submitForm" data-turbo="false" action="/notifications/subscribe" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="HorkCiQGplCZtAGuIhsc7H8YBXAoQbYyC1JvOoF_fyEEkuIJeGQ6M9kYqaBX8xMvwp7QG93tL4YFcJ54iqj3cQ" autocomplete="off" />
+              <!-- '"` --><!-- </textarea></xmp> --></option></form><form data-target="notifications-list-subscription-form.form" data-action="submit:notifications-list-subscription-form#submitForm" data-turbo="false" action="/notifications/subscribe" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="5vRF1wbXocKHi_x1Qc9084vzOLOVwir8R2sx58aUrKD87EPUWrU9occnVHs0J3swNnXt2GBus0hJScClzUMk8A" autocomplete="off" />
 
                 <input type="hidden" name="repository_id" value="579339428">
 
@@ -1786,7 +1786,7 @@
           hidden
         >
           <div class="SelectMenu-modal notifications-component-dialog-modal overflow-visible">
-            <!-- '"` --><!-- </textarea></xmp> --></option></form><form data-target="notifications-list-subscription-form.customform" data-action="submit:notifications-list-subscription-form#submitCustomForm" data-turbo="false" action="/notifications/subscribe" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="ZKJmy0qhfPyHUGKPT-P9a3sy2BWqY_4UCIwfJiNYVS5-umDIFsPgn8f8yoE6C_KoxrQNfl_PZ6AGru5kKI_dfg" autocomplete="off" />
+            <!-- '"` --><!-- </textarea></xmp> --></option></form><form data-target="notifications-list-subscription-form.customform" data-action="submit:notifications-list-subscription-form#submitCustomForm" data-turbo="false" action="/notifications/subscribe" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="Nld2W4_cTDW-LVSlsEwNdmN8jVAg9Fhte3ZTIyrKi6gsT3BY077QVv6B_KvFpAK13vpYO9VYwdl1VKJhIR0D-A" autocomplete="off" />
 
               <input type="hidden" name="repository_id" value="579339428">
 
@@ -1938,11 +1938,11 @@
   <li>
         <div data-view-component="true" class="d-flex">
         <div data-view-component="true" class="position-relative d-inline-block">
-    <a icon="repo-forked" id="fork-button" href="/JokerWuXin/ChatGpt-LineBot/fork" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;FORK_BUTTON&quot;,&quot;repository_id&quot;:579339428,&quot;originating_url&quot;:&quot;https://github.com/JokerWuXin/ChatGpt-LineBot/blob/main/vercel.json&quot;,&quot;user_id&quot;:34676256}}" data-hydro-click-hmac="c6f95a5a3f484cacd0db519a43d5f106caa4ea2b88cf6653b867ead30ce612df" data-ga-click="Repository, show fork modal, action:blob#show; text:Fork" data-view-component="true" class="btn-sm btn BtnGroup-item border-right-0">      <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-repo-forked mr-2">
+    <a icon="repo-forked" id="fork-button" href="/JokerWuXin/ChatGpt-LineBot/fork" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;FORK_BUTTON&quot;,&quot;repository_id&quot;:579339428,&quot;originating_url&quot;:&quot;https://github.com/JokerWuXin/ChatGpt-LineBot/blob/main/api/prompt.py&quot;,&quot;user_id&quot;:34676256}}" data-hydro-click-hmac="d9994781253d7f6c09673d7332cca976f4f5f6c9ddf3b95fa9cf06aebce79419" data-ga-click="Repository, show fork modal, action:blob#show; text:Fork" data-view-component="true" class="btn-sm btn BtnGroup-item border-right-0">      <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-repo-forked mr-2">
     <path fill-rule="evenodd" d="M5 3.25a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm0 2.122a2.25 2.25 0 10-1.5 0v.878A2.25 2.25 0 005.75 8.5h1.5v2.128a2.251 2.251 0 101.5 0V8.5h1.5a2.25 2.25 0 002.25-2.25v-.878a2.25 2.25 0 10-1.5 0v.878a.75.75 0 01-.75.75h-4.5A.75.75 0 015 6.25v-.878zm3.75 7.378a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm3-8.75a.75.75 0 100-1.5.75.75 0 000 1.5z"></path>
 </svg>Fork
           <span id="repo-network-counter" data-pjax-replace="true" data-turbo-replace="true" title="55" data-view-component="true" class="Counter">55</span>
-</a>    <tool-tip id="tooltip-0d94a500-3685-4260-a084-052a76a558b9" for="fork-button" data-direction="s" data-type="description" data-view-component="true" class="sr-only position-absolute">Fork your own copy of JokerWuXin/ChatGpt-LineBot</tool-tip>
+</a>    <tool-tip id="tooltip-0911279d-8622-40aa-b4f4-c3ea59520ccc" for="fork-button" data-direction="s" data-type="description" data-view-component="true" class="sr-only position-absolute">Fork your own copy of JokerWuXin/ChatGpt-LineBot</tool-tip>
 </div>
       <details group_item="true" id="my-forks-menu-579339428" data-view-component="true" class="details-reset details-overlay BtnGroup-parent d-inline-block position-relative">
               <summary aria-label="See your forks of this repository" data-view-component="true" class="btn-sm btn BtnGroup-item px-2 float-none">    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-triangle-down">
@@ -1957,13 +1957,13 @@
       
 >
     <div class="SelectMenu-modal">
-        <button class="SelectMenu-closeButton position-absolute right-0 m-2" type="button" aria-label="Close menu" data-toggle-for="details-2e69dd">
+        <button class="SelectMenu-closeButton position-absolute right-0 m-2" type="button" aria-label="Close menu" data-toggle-for="details-2aa53b">
           <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-x">
     <path fill-rule="evenodd" d="M3.72 3.72a.75.75 0 011.06 0L8 6.94l3.22-3.22a.75.75 0 111.06 1.06L9.06 8l3.22 3.22a.75.75 0 11-1.06 1.06L8 9.06l-3.22 3.22a.75.75 0 01-1.06-1.06L6.94 8 3.72 4.78a.75.75 0 010-1.06z"></path>
 </svg>
         </button>
       <div
-        id="filter-menu-2e69dd"
+        id="filter-menu-2aa53b"
         class="d-flex flex-column flex-1 overflow-hidden"
 >
         <div
@@ -2005,10 +2005,10 @@
 
   <div data-view-component="true" class="js-toggler-container js-social-container starring-container d-flex">
     <div data-view-component="true" class="starred BtnGroup flex-1">
-      <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="js-social-form BtnGroup-parent flex-auto js-deferred-toggler-target" data-turbo="false" action="/JokerWuXin/ChatGpt-LineBot/unstar" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="nn2hiDE14ysM7kBybm2kW9-IQe9Rct9bTS72o3E6wtb-nGB8YiR_EYnjCKuHaAqndAoP4Z5ISl2r40kPnZVKHQ" autocomplete="off" />
-          <input type="hidden" value="CQSmaC_-ojeOVuiXN4WJLv5xYeMRisKpJ7z6YU_RvCtp5WecfO8-DQtboE7egCfSVfMv7d6wV6_BcUXNo3404A" data-csrf="true" class="js-confirm-csrf-token" />
+      <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="js-social-form BtnGroup-parent flex-auto js-deferred-toggler-target" data-turbo="false" action="/JokerWuXin/ChatGpt-LineBot/unstar" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="F0LpM2AkCn6Uy3o-eWokl3KKiGajgNjjfS2_UX540hN3oyjHMzWWRBHGMueQb4pr2QjGaGy6TeWb4AD9ktda2A" autocomplete="off" />
+          <input type="hidden" value="ZWxEml5OHiRGu7DUPO0i96KYoyFgLnb0XjV0fQG14JYFjYVuDV-CHsO2-A3V6IwLCRrtL68U4_K4-MvR7RpoXQ" data-csrf="true" class="js-confirm-csrf-token" />
         <input type="hidden" name="context" value="repository">
-          <button data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;UNSTAR_BUTTON&quot;,&quot;repository_id&quot;:579339428,&quot;originating_url&quot;:&quot;https://github.com/JokerWuXin/ChatGpt-LineBot/blob/main/vercel.json&quot;,&quot;user_id&quot;:34676256}}" data-hydro-click-hmac="2a5ccbb79fc1bd690f5b728a15bf05d8b784b6af948e2c3ac625b64a22b85438" data-ga-click="Repository, click unstar button, action:blob#show; text:Unstar" aria-label="Unstar this repository (21)" type="submit" data-view-component="true" class="rounded-left-2 btn-sm btn BtnGroup-item">    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-star-fill starred-button-icon d-inline-block mr-2">
+          <button data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;UNSTAR_BUTTON&quot;,&quot;repository_id&quot;:579339428,&quot;originating_url&quot;:&quot;https://github.com/JokerWuXin/ChatGpt-LineBot/blob/main/api/prompt.py&quot;,&quot;user_id&quot;:34676256}}" data-hydro-click-hmac="2bd8a43331b1cb873f4465ebc2ecadef06a79375695f7321ace49213a99bb6a4" data-ga-click="Repository, click unstar button, action:blob#show; text:Unstar" aria-label="Unstar this repository (21)" type="submit" data-view-component="true" class="rounded-left-2 btn-sm btn BtnGroup-item">    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-star-fill starred-button-icon d-inline-block mr-2">
     <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25z"></path>
 </svg><span data-view-component="true" class="d-inline">
             Starred
@@ -2026,13 +2026,13 @@
       
 >
     <div class="SelectMenu-modal">
-        <button class="SelectMenu-closeButton position-absolute right-0 m-2" type="button" aria-label="Close menu" data-toggle-for="details-b6a71e">
+        <button class="SelectMenu-closeButton position-absolute right-0 m-2" type="button" aria-label="Close menu" data-toggle-for="details-f94054">
           <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-x">
     <path fill-rule="evenodd" d="M3.72 3.72a.75.75 0 011.06 0L8 6.94l3.22-3.22a.75.75 0 111.06 1.06L9.06 8l3.22 3.22a.75.75 0 11-1.06 1.06L8 9.06l-3.22 3.22a.75.75 0 01-1.06-1.06L6.94 8 3.72 4.78a.75.75 0 010-1.06z"></path>
 </svg>
         </button>
       <div
-        id="filter-menu-b6a71e"
+        id="filter-menu-f94054"
         class="d-flex flex-column flex-1 overflow-hidden"
 >
         <div
@@ -2053,9 +2053,9 @@
 </details>
 </div>
     <div data-view-component="true" class="unstarred BtnGroup flex-1">
-      <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="js-social-form BtnGroup-parent flex-auto" data-turbo="false" action="/JokerWuXin/ChatGpt-LineBot/star" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="ZUXvn4Y4ouSDGrMP2dHX6B6WtAYrEKW-uaULg7f6x-bpp5Rs6i3GXqUTsZAlmgyHmZhMKD8I5Hiuo2iTf8adwA" autocomplete="off" />
+      <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="js-social-form BtnGroup-parent flex-auto" data-turbo="false" action="/JokerWuXin/ChatGpt-LineBot/star" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="eyjCBxcyu0ZmAo26gi7IfVCtzsWzYlv4saSvIWtxyt73yrn0eyff_EALjyV-ZRMS16M266d6Gj6moswxo02Q-A" autocomplete="off" />
         <input type="hidden" name="context" value="repository">
-          <button data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;STAR_BUTTON&quot;,&quot;repository_id&quot;:579339428,&quot;originating_url&quot;:&quot;https://github.com/JokerWuXin/ChatGpt-LineBot/blob/main/vercel.json&quot;,&quot;user_id&quot;:34676256}}" data-hydro-click-hmac="249d115268c8d7e552dfba0098b753bcd5e854bfcee1d9ce378a9512307d3d13" data-ga-click="Repository, click star button, action:blob#show; text:Star" aria-label="Star this repository (21)" type="submit" data-view-component="true" class="js-toggler-target rounded-left-2 btn-sm btn BtnGroup-item">    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-star d-inline-block mr-2">
+          <button data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;STAR_BUTTON&quot;,&quot;repository_id&quot;:579339428,&quot;originating_url&quot;:&quot;https://github.com/JokerWuXin/ChatGpt-LineBot/blob/main/api/prompt.py&quot;,&quot;user_id&quot;:34676256}}" data-hydro-click-hmac="ab6b5c3567c514212740947b0734f8cd3921c67887b1015ec4837fac7e580d08" data-ga-click="Repository, click star button, action:blob#show; text:Star" aria-label="Star this repository (21)" type="submit" data-view-component="true" class="js-toggler-target rounded-left-2 btn-sm btn BtnGroup-item">    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-star d-inline-block mr-2">
     <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"></path>
 </svg><span data-view-component="true" class="d-inline">
             Star
@@ -2073,13 +2073,13 @@
       
 >
     <div class="SelectMenu-modal">
-        <button class="SelectMenu-closeButton position-absolute right-0 m-2" type="button" aria-label="Close menu" data-toggle-for="details-b6a71e">
+        <button class="SelectMenu-closeButton position-absolute right-0 m-2" type="button" aria-label="Close menu" data-toggle-for="details-f94054">
           <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-x">
     <path fill-rule="evenodd" d="M3.72 3.72a.75.75 0 011.06 0L8 6.94l3.22-3.22a.75.75 0 111.06 1.06L9.06 8l3.22 3.22a.75.75 0 11-1.06 1.06L8 9.06l-3.22 3.22a.75.75 0 01-1.06-1.06L6.94 8 3.72 4.78a.75.75 0 010-1.06z"></path>
 </svg>
         </button>
       <div
-        id="filter-menu-b6a71e"
+        id="filter-menu-f94054"
         class="d-flex flex-column flex-1 overflow-hidden"
 >
         <div
@@ -2266,7 +2266,7 @@
 
 
     
-<a class="d-none js-permalink-shortcut" data-hotkey="y" href="/JokerWuXin/ChatGpt-LineBot/blob/6524108afed8816dd07f5dd002e25f609f40ca0f/vercel.json">Permalink</a>
+<a class="d-none js-permalink-shortcut" data-hotkey="y" href="/JokerWuXin/ChatGpt-LineBot/blob/6524108afed8816dd07f5dd002e25f609f40ca0f/api/prompt.py">Permalink</a>
 
 <div class="d-flex flex-items-start flex-shrink-0 pb-3 flex-wrap flex-md-nowrap flex-justify-between flex-md-justify-start">
   
@@ -2274,7 +2274,7 @@
   <details
     class="js-branch-select-menu details-reset details-overlay mr-0 mb-0 "
     id="branch-select-menu"
-    data-hydro-click-payload="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;REFS_SELECTOR_MENU&quot;,&quot;repository_id&quot;:579339428,&quot;originating_url&quot;:&quot;https://github.com/JokerWuXin/ChatGpt-LineBot/blob/main/vercel.json&quot;,&quot;user_id&quot;:34676256}}" data-hydro-click-hmac="fb2896172953d361c9145a57ae093f3625ca523c35c482aa233d86561326ddcf">
+    data-hydro-click-payload="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;REFS_SELECTOR_MENU&quot;,&quot;repository_id&quot;:579339428,&quot;originating_url&quot;:&quot;https://github.com/JokerWuXin/ChatGpt-LineBot/blob/main/api/prompt.py&quot;,&quot;user_id&quot;:34676256}}" data-hydro-click-hmac="a2e0e6050ff87d04d020a5fdc78e429ee04727df70321ca113986ae3269061f9">
     <summary class="btn css-truncate"
             data-hotkey="w"
             title="Switch branches or tags">
@@ -2355,7 +2355,7 @@
               
 
 <template data-target="ref-selector.itemTemplate">
-  <a href="https://github.com/JokerWuXin/ChatGpt-LineBot/blob/{{ urlEncodedRefName }}/vercel.json" class="SelectMenu-item" role="menuitemradio" rel="nofollow" aria-checked="{{ isCurrent }}" data-index="{{ index }}" >
+  <a href="https://github.com/JokerWuXin/ChatGpt-LineBot/blob/{{ urlEncodedRefName }}/api/prompt.py" class="SelectMenu-item" role="menuitemradio" rel="nofollow" aria-checked="{{ isCurrent }}" data-index="{{ index }}" >
     <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-check SelectMenu-icon SelectMenu-icon--check">
     <path fill-rule="evenodd" d="M13.78 4.22a.75.75 0 010 1.06l-7.25 7.25a.75.75 0 01-1.06 0L2.22 9.28a.75.75 0 011.06-1.06L6 10.94l6.72-6.72a.75.75 0 011.06 0z"></path>
 </svg>
@@ -2397,7 +2397,7 @@
               
 
 <template data-target="ref-selector.itemTemplate">
-  <a href="https://github.com/JokerWuXin/ChatGpt-LineBot/blob/{{ urlEncodedRefName }}/vercel.json" class="SelectMenu-item" role="menuitemradio" rel="nofollow" aria-checked="{{ isCurrent }}" data-index="{{ index }}" >
+  <a href="https://github.com/JokerWuXin/ChatGpt-LineBot/blob/{{ urlEncodedRefName }}/api/prompt.py" class="SelectMenu-item" role="menuitemradio" rel="nofollow" aria-checked="{{ isCurrent }}" data-index="{{ index }}" >
     <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-check SelectMenu-icon SelectMenu-icon--check">
     <path fill-rule="evenodd" d="M13.78 4.22a.75.75 0 010 1.06l-7.25 7.25a.75.75 0 01-1.06 0L2.22 9.28a.75.75 0 011.06-1.06L6 10.94l6.72-6.72a.75.75 0 011.06 0z"></path>
 </svg>
@@ -2458,7 +2458,78 @@
 
 
   <h2 id="blob-path" class="breadcrumb flex-auto flex-self-center min-width-0 text-normal mx-2 width-full width-md-auto flex-order-1 flex-md-order-none mt-3 mt-md-0">
-    <span class="js-repo-root text-bold"><span class="js-path-segment d-inline-block wb-break-all"><a data-turbo-frame="repo-content-turbo-frame" href="/JokerWuXin/ChatGpt-LineBot"><span>ChatGpt-LineBot</span></a></span></span><span class="separator">/</span><strong class="final-path">vercel.json</strong>
+    <span class="js-repo-root text-bold"><span class="js-path-segment d-inline-block wb-break-all"><a data-turbo-frame="repo-content-turbo-frame" href="/JokerWuXin/ChatGpt-LineBot"><span>ChatGpt-LineBot</span></a></span></span><span class="separator">/</span><span class="js-path-segment d-inline-block wb-break-all"><a data-turbo-frame="repo-content-turbo-frame" href="/JokerWuXin/ChatGpt-LineBot/tree/main/api"><span>api</span></a></span><span class="separator">/</span><strong class="final-path">prompt.py</strong>
+      <span class="separator">/</span><details class="details-reset details-overlay d-inline" id="jumpto-symbol-select-menu">
+    <summary aria-haspopup="true" data-hotkey="r" data-hydro-click="{&quot;event_type&quot;:&quot;code_navigation.click_on_blob_definitions&quot;,&quot;payload&quot;:{&quot;action&quot;:&quot;click_on_blob_definitions&quot;,&quot;repository_id&quot;:579339428,&quot;ref&quot;:&quot;main&quot;,&quot;language&quot;:&quot;Python&quot;,&quot;backend&quot;:&quot;ALEPH_FUZZY&quot;,&quot;code_nav_context&quot;:&quot;BLOB_VIEW&quot;,&quot;retry_backend&quot;:&quot;&quot;,&quot;cross_repo_results_included&quot;:&quot;CROSS_REPO_UNKNOWN&quot;,&quot;in_repo_result_count&quot;:0,&quot;cross_repo_result_count&quot;:0,&quot;originating_url&quot;:&quot;https://github.com/JokerWuXin/ChatGpt-LineBot/blob/main/api/prompt.py&quot;,&quot;user_id&quot;:34676256}}" data-hydro-click-hmac="3399426dd6a5af7f9c0131582c4d8851a2c71e90f4192bef6e6d91b3c5ccc4b0" data-view-component="true" class="Link--secondary css-truncate btn-link">    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-code">
+    <path fill-rule="evenodd" d="M4.72 3.22a.75.75 0 011.06 1.06L2.06 8l3.72 3.72a.75.75 0 11-1.06 1.06L.47 8.53a.75.75 0 010-1.06l4.25-4.25zm6.56 0a.75.75 0 10-1.06 1.06L13.94 8l-3.72 3.72a.75.75 0 101.06 1.06l4.25-4.25a.75.75 0 000-1.06l-4.25-4.25z"></path>
+</svg>
+    <span data-menu-button>Jump to</span>
+    <span class="dropdown-caret"></span>
+</summary>  <details-menu class="SelectMenu SelectMenu--hasFilter" role="menu">
+    <div class="SelectMenu-modal">
+      <header class="SelectMenu-header">
+        <span class="SelectMenu-title">Code definitions</span>
+        <button class="SelectMenu-closeButton" type="button" data-toggle-for="jumpto-symbol-select-menu">
+          <svg aria-label="Close menu" role="img" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-x">
+    <path fill-rule="evenodd" d="M3.72 3.72a.75.75 0 011.06 0L8 6.94l3.22-3.22a.75.75 0 111.06 1.06L9.06 8l3.22 3.22a.75.75 0 11-1.06 1.06L8 9.06l-3.22 3.22a.75.75 0 01-1.06-1.06L6.94 8 3.72 4.78a.75.75 0 010-1.06z"></path>
+</svg>
+        </button>
+      </header>
+        <div class="SelectMenu-filter">
+          <input
+            class="SelectMenu-input form-control js-filterable-field"
+            id="jumpto-symbols-filter-field"
+            type="text"
+            autocomplete="off"
+            spellcheck="false"
+            autofocus
+            placeholder="Filter definitions"
+            aria-label="Filter definitions">
+        </div>
+      <div class="SelectMenu-list">
+        <div data-filterable-for="jumpto-symbols-filter-field" data-filterable-type="substring">
+            <a class="SelectMenu-item d-flex flex-justify-between css-truncate" role="menuitemradio" aria-checked="false" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;code_navigation.navigate_to_blob_definition&quot;,&quot;payload&quot;:{&quot;action&quot;:&quot;navigate_to_blob_definition&quot;,&quot;repository_id&quot;:579339428,&quot;ref&quot;:&quot;main&quot;,&quot;language&quot;:&quot;Python&quot;,&quot;backend&quot;:&quot;ALEPH_FUZZY&quot;,&quot;code_nav_context&quot;:&quot;BLOB_VIEW&quot;,&quot;retry_backend&quot;:&quot;&quot;,&quot;cross_repo_results_included&quot;:&quot;CROSS_REPO_UNKNOWN&quot;,&quot;in_repo_result_count&quot;:0,&quot;cross_repo_result_count&quot;:0,&quot;originating_url&quot;:&quot;https://github.com/JokerWuXin/ChatGpt-LineBot/blob/main/api/prompt.py&quot;,&quot;user_id&quot;:34676256}}" data-hydro-click-hmac="645c65b23663a922c73b27b91ceaa96fb537b69700c51cf3f98a1085e5fa3f24" href="/JokerWuXin/ChatGpt-LineBot/blob/main/api/prompt.py#L11">
+              <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-check SelectMenu-icon SelectMenu-icon--check">
+    <path fill-rule="evenodd" d="M13.78 4.22a.75.75 0 010 1.06l-7.25 7.25a.75.75 0 01-1.06 0L2.22 9.28a.75.75 0 011.06-1.06L6 10.94l6.72-6.72a.75.75 0 011.06 0z"></path>
+</svg>
+              <span class="flex-auto css-truncate-target" data-menu-button-text>Prompt</span>
+              <span class="flex-auto d-flex flex-justify-end">Class</span>
+</a>            <a class="SelectMenu-item d-flex flex-justify-between css-truncate" role="menuitemradio" aria-checked="false" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;code_navigation.navigate_to_blob_definition&quot;,&quot;payload&quot;:{&quot;action&quot;:&quot;navigate_to_blob_definition&quot;,&quot;repository_id&quot;:579339428,&quot;ref&quot;:&quot;main&quot;,&quot;language&quot;:&quot;Python&quot;,&quot;backend&quot;:&quot;ALEPH_FUZZY&quot;,&quot;code_nav_context&quot;:&quot;BLOB_VIEW&quot;,&quot;retry_backend&quot;:&quot;&quot;,&quot;cross_repo_results_included&quot;:&quot;CROSS_REPO_UNKNOWN&quot;,&quot;in_repo_result_count&quot;:0,&quot;cross_repo_result_count&quot;:0,&quot;originating_url&quot;:&quot;https://github.com/JokerWuXin/ChatGpt-LineBot/blob/main/api/prompt.py&quot;,&quot;user_id&quot;:34676256}}" data-hydro-click-hmac="645c65b23663a922c73b27b91ceaa96fb537b69700c51cf3f98a1085e5fa3f24" href="/JokerWuXin/ChatGpt-LineBot/blob/main/api/prompt.py#L12">
+              <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-check SelectMenu-icon SelectMenu-icon--check">
+    <path fill-rule="evenodd" d="M13.78 4.22a.75.75 0 010 1.06l-7.25 7.25a.75.75 0 01-1.06 0L2.22 9.28a.75.75 0 011.06-1.06L6 10.94l6.72-6.72a.75.75 0 011.06 0z"></path>
+</svg>
+              <span class="flex-auto css-truncate-target" data-menu-button-text>__init__</span>
+              <span class="flex-auto d-flex flex-justify-end">Function</span>
+</a>            <a class="SelectMenu-item d-flex flex-justify-between css-truncate" role="menuitemradio" aria-checked="false" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;code_navigation.navigate_to_blob_definition&quot;,&quot;payload&quot;:{&quot;action&quot;:&quot;navigate_to_blob_definition&quot;,&quot;repository_id&quot;:579339428,&quot;ref&quot;:&quot;main&quot;,&quot;language&quot;:&quot;Python&quot;,&quot;backend&quot;:&quot;ALEPH_FUZZY&quot;,&quot;code_nav_context&quot;:&quot;BLOB_VIEW&quot;,&quot;retry_backend&quot;:&quot;&quot;,&quot;cross_repo_results_included&quot;:&quot;CROSS_REPO_UNKNOWN&quot;,&quot;in_repo_result_count&quot;:0,&quot;cross_repo_result_count&quot;:0,&quot;originating_url&quot;:&quot;https://github.com/JokerWuXin/ChatGpt-LineBot/blob/main/api/prompt.py&quot;,&quot;user_id&quot;:34676256}}" data-hydro-click-hmac="645c65b23663a922c73b27b91ceaa96fb537b69700c51cf3f98a1085e5fa3f24" href="/JokerWuXin/ChatGpt-LineBot/blob/main/api/prompt.py#L16">
+              <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-check SelectMenu-icon SelectMenu-icon--check">
+    <path fill-rule="evenodd" d="M13.78 4.22a.75.75 0 010 1.06l-7.25 7.25a.75.75 0 01-1.06 0L2.22 9.28a.75.75 0 011.06-1.06L6 10.94l6.72-6.72a.75.75 0 011.06 0z"></path>
+</svg>
+              <span class="flex-auto css-truncate-target" data-menu-button-text>add_msg</span>
+              <span class="flex-auto d-flex flex-justify-end">Function</span>
+</a>            <a class="SelectMenu-item d-flex flex-justify-between css-truncate" role="menuitemradio" aria-checked="false" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;code_navigation.navigate_to_blob_definition&quot;,&quot;payload&quot;:{&quot;action&quot;:&quot;navigate_to_blob_definition&quot;,&quot;repository_id&quot;:579339428,&quot;ref&quot;:&quot;main&quot;,&quot;language&quot;:&quot;Python&quot;,&quot;backend&quot;:&quot;ALEPH_FUZZY&quot;,&quot;code_nav_context&quot;:&quot;BLOB_VIEW&quot;,&quot;retry_backend&quot;:&quot;&quot;,&quot;cross_repo_results_included&quot;:&quot;CROSS_REPO_UNKNOWN&quot;,&quot;in_repo_result_count&quot;:0,&quot;cross_repo_result_count&quot;:0,&quot;originating_url&quot;:&quot;https://github.com/JokerWuXin/ChatGpt-LineBot/blob/main/api/prompt.py&quot;,&quot;user_id&quot;:34676256}}" data-hydro-click-hmac="645c65b23663a922c73b27b91ceaa96fb537b69700c51cf3f98a1085e5fa3f24" href="/JokerWuXin/ChatGpt-LineBot/blob/main/api/prompt.py#L21">
+              <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-check SelectMenu-icon SelectMenu-icon--check">
+    <path fill-rule="evenodd" d="M13.78 4.22a.75.75 0 010 1.06l-7.25 7.25a.75.75 0 01-1.06 0L2.22 9.28a.75.75 0 011.06-1.06L6 10.94l6.72-6.72a.75.75 0 011.06 0z"></path>
+</svg>
+              <span class="flex-auto css-truncate-target" data-menu-button-text>remove_msg</span>
+              <span class="flex-auto d-flex flex-justify-end">Function</span>
+</a>            <a class="SelectMenu-item d-flex flex-justify-between css-truncate" role="menuitemradio" aria-checked="false" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;code_navigation.navigate_to_blob_definition&quot;,&quot;payload&quot;:{&quot;action&quot;:&quot;navigate_to_blob_definition&quot;,&quot;repository_id&quot;:579339428,&quot;ref&quot;:&quot;main&quot;,&quot;language&quot;:&quot;Python&quot;,&quot;backend&quot;:&quot;ALEPH_FUZZY&quot;,&quot;code_nav_context&quot;:&quot;BLOB_VIEW&quot;,&quot;retry_backend&quot;:&quot;&quot;,&quot;cross_repo_results_included&quot;:&quot;CROSS_REPO_UNKNOWN&quot;,&quot;in_repo_result_count&quot;:0,&quot;cross_repo_result_count&quot;:0,&quot;originating_url&quot;:&quot;https://github.com/JokerWuXin/ChatGpt-LineBot/blob/main/api/prompt.py&quot;,&quot;user_id&quot;:34676256}}" data-hydro-click-hmac="645c65b23663a922c73b27b91ceaa96fb537b69700c51cf3f98a1085e5fa3f24" href="/JokerWuXin/ChatGpt-LineBot/blob/main/api/prompt.py#L24">
+              <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-check SelectMenu-icon SelectMenu-icon--check">
+    <path fill-rule="evenodd" d="M13.78 4.22a.75.75 0 010 1.06l-7.25 7.25a.75.75 0 01-1.06 0L2.22 9.28a.75.75 0 011.06-1.06L6 10.94l6.72-6.72a.75.75 0 011.06 0z"></path>
+</svg>
+              <span class="flex-auto css-truncate-target" data-menu-button-text>generate_prompt</span>
+              <span class="flex-auto d-flex flex-justify-end">Function</span>
+</a>        </div>
+      </div>
+      <footer class="SelectMenu-footer">
+        <div class="d-flex flex-justify-between">
+          Code navigation index up-to-date
+          <svg class="octicon octicon-dot-fill text-green" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
+        </div>
+      </footer>
+    </div>
+  </details-menu>
+</details>
+
   </h2>
     <a href="/JokerWuXin/ChatGpt-LineBot/find/main" data-pjax="" data-hotkey="t" data-view-component="true" class="btn mr-2 d-none d-md-block">    Go to file
 </a>
@@ -2469,7 +2540,7 @@
 </summary>
   <div data-view-component="true">      <ul class="dropdown-menu dropdown-menu-sw">
         <li class="d-block d-md-none">
-          <a class="dropdown-item d-flex flex-items-baseline" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;FIND_FILE_BUTTON&quot;,&quot;repository_id&quot;:579339428,&quot;originating_url&quot;:&quot;https://github.com/JokerWuXin/ChatGpt-LineBot/blob/main/vercel.json&quot;,&quot;user_id&quot;:34676256}}" data-hydro-click-hmac="e3ecd87e2a30f81bbfb768647efb10563893ef109a1e2a67c8ee1a5ea7ea0162" data-ga-click="Repository, find file, location:repo overview" data-hotkey="t" href="/JokerWuXin/ChatGpt-LineBot/find/main">
+          <a class="dropdown-item d-flex flex-items-baseline" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;FIND_FILE_BUTTON&quot;,&quot;repository_id&quot;:579339428,&quot;originating_url&quot;:&quot;https://github.com/JokerWuXin/ChatGpt-LineBot/blob/main/api/prompt.py&quot;,&quot;user_id&quot;:34676256}}" data-hydro-click-hmac="8361fad80d76fda74327a40661c19b6903f380d01f1b9e49f2593c37b242c6ff" data-ga-click="Repository, find file, location:repo overview" data-hotkey="t" href="/JokerWuXin/ChatGpt-LineBot/find/main">
             <span class="flex-auto">Go to file</span>
             <span class="text-small color-fg-muted" aria-hidden="true">T</span>
 </a>        </li>
@@ -2479,15 +2550,21 @@
               <span class="text-small color-fg-muted" aria-hidden="true">L</span>
             </span>
 </button>        </li>
+        <li data-toggle-for="blob-more-options-details">
+            <button data-toggle-for="jumpto-symbol-select-menu" type="button" data-view-component="true" class="dropdown-item btn-link">    <span class="d-flex flex-items-baseline">
+              <span class="flex-auto">Go to definition</span>
+              <span class="text-small color-fg-muted" aria-hidden="true">R</span>
+            </span>
+</button>        </li>
         <li class="dropdown-divider" role="none"></li>
         <li>
-          <clipboard-copy data-toggle-for="blob-more-options-details" aria-label="Copy path" value="vercel.json" data-view-component="true" class="dropdown-item cursor-pointer">
+          <clipboard-copy data-toggle-for="blob-more-options-details" aria-label="Copy path" value="api/prompt.py" data-view-component="true" class="dropdown-item cursor-pointer">
     
             Copy path
 
 </clipboard-copy>        </li>
         <li>
-          <clipboard-copy data-toggle-for="blob-more-options-details" aria-label="Copy permalink" value="https://github.com/JokerWuXin/ChatGpt-LineBot/blob/6524108afed8816dd07f5dd002e25f609f40ca0f/vercel.json" data-view-component="true" class="dropdown-item cursor-pointer">
+          <clipboard-copy data-toggle-for="blob-more-options-details" aria-label="Copy permalink" value="https://github.com/JokerWuXin/ChatGpt-LineBot/blob/6524108afed8816dd07f5dd002e25f609f40ca0f/api/prompt.py" data-view-component="true" class="dropdown-item cursor-pointer">
     
             <span class="d-flex flex-items-baseline">
               <span class="flex-auto">Copy permalink</span>
@@ -2519,7 +2596,7 @@
     <include-fragment src="/JokerWuXin/ChatGpt-LineBot/spoofed_commit_check/6524108afed8816dd07f5dd002e25f609f40ca0f" data-test-selector="spoofed-commit-check"></include-fragment>
 
     <div class="Box d-flex flex-column flex-shrink-0 mb-3">
-  <include-fragment src="/JokerWuXin/ChatGpt-LineBot/contributors/main/vercel.json" class="commit-loader">
+  <include-fragment src="/JokerWuXin/ChatGpt-LineBot/contributors/main/api/prompt.py" class="commit-loader">
     <div class="Box-header d-flex flex-items-center">
       <div class="Skeleton avatar avatar-user flex-shrink-0 ml-n1 mr-n1 mt-n1 mb-n1" style="width:24px;height:24px;"></div>
       <div class="Skeleton Skeleton--text col-5 ml-2">&nbsp;</div>
@@ -2553,23 +2630,23 @@
 
   <div class="text-mono f6 flex-auto pr-3 flex-order-2 flex-md-order-1">
 
-      14 lines (14 sloc)
+      25 lines (19 sloc)
       <span class="file-info-divider"></span>
-    175 Bytes
+    629 Bytes
   </div>
 
   <div class="d-flex py-1 py-md-0 flex-auto flex-order-1 flex-md-order-2 flex-sm-grow-0 flex-justify-between hide-sm hide-md">
       
 
     <div class="BtnGroup">
-        <a data-permalink-href="/JokerWuXin/ChatGpt-LineBot/raw/6524108afed8816dd07f5dd002e25f609f40ca0f/vercel.json" href="/JokerWuXin/ChatGpt-LineBot/raw/main/vercel.json" id="raw-url" data-view-component="true" class="js-permalink-replaceable-link btn-sm btn BtnGroup-item">    Raw
-</a>          <a data-permalink-href="/JokerWuXin/ChatGpt-LineBot/blame/6524108afed8816dd07f5dd002e25f609f40ca0f/vercel.json" href="/JokerWuXin/ChatGpt-LineBot/blame/main/vercel.json" data-hotkey="b" data-view-component="true" class="js-update-url-with-hash js-permalink-replaceable-link btn-sm btn BtnGroup-item">    Blame
+        <a data-permalink-href="/JokerWuXin/ChatGpt-LineBot/raw/6524108afed8816dd07f5dd002e25f609f40ca0f/api/prompt.py" href="/JokerWuXin/ChatGpt-LineBot/raw/main/api/prompt.py" id="raw-url" data-view-component="true" class="js-permalink-replaceable-link btn-sm btn BtnGroup-item">    Raw
+</a>          <a data-permalink-href="/JokerWuXin/ChatGpt-LineBot/blame/6524108afed8816dd07f5dd002e25f609f40ca0f/api/prompt.py" href="/JokerWuXin/ChatGpt-LineBot/blame/main/api/prompt.py" data-hotkey="b" data-view-component="true" class="js-update-url-with-hash js-permalink-replaceable-link btn-sm btn BtnGroup-item">    Blame
 </a>    </div>
 
     <div class="d-flex">
         
 <div class="ml-1" >
-  <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="BtnGroup-parent js-update-url-with-hash " data-turbo="false" action="/JokerWuXin/ChatGpt-LineBot/edit/main/vercel.json" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="O-t5OFBWeUsj6Smyzr7O_WtKZdcQOC3jEhm_6T3bL94l0YbVKtSJIp37oXMGn6rrdmZYELZ5BAJO6mGYl5AoVg" autocomplete="off" />
+  <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="BtnGroup-parent js-update-url-with-hash " data-turbo="false" action="/JokerWuXin/ChatGpt-LineBot/edit/main/api/prompt.py" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="kDS4eykxksRcemE4MxXWV5ASORfol0ep2mDz-SgMWE4jjdsUu2s2_JVdsy5H332HKYq9CRA3exC5D9cWlPNypQ" autocomplete="off" />
       <button title="Fork this repository and edit the file" data-hotkey="e" data-disable-with="" type="submit" data-view-component="true" class="btn-sm BtnGroup-item btn">    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-pencil">
     <path fill-rule="evenodd" d="M11.013 1.427a1.75 1.75 0 012.474 0l1.086 1.086a1.75 1.75 0 010 2.474l-8.61 8.61c-.21.21-.47.364-.756.445l-3.251.93a.75.75 0 01-.927-.928l.929-3.25a1.75 1.75 0 01.445-.758l8.61-8.61zm1.414 1.06a.25.25 0 00-.354 0L10.811 3.75l1.439 1.44 1.263-1.263a.25.25 0 000-.354l-1.086-1.086zM11.189 6.25L9.75 4.81l-6.286 6.287a.25.25 0 00-.064.108l-.558 1.953 1.953-.558a.249.249 0 00.108-.064l6.286-6.286z"></path>
 </svg>
@@ -2579,7 +2656,7 @@
 </summary>    <div class="SelectMenu right-0">
       <div class="SelectMenu-modal width-full">
         <div class="SelectMenu-list SelectMenu-list--borderless py-2">
-          <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="SelectMenu-item js-update-url-with-hash " data-turbo="false" action="/JokerWuXin/ChatGpt-LineBot/edit/main/vercel.json" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="1k-_1-LX9Mv-EjqwEnrDEbHQBbFqCXwlgmvrE4uh_rXIdUA6mFUEokAAsnHaW6cHrPw4dsxIVcTemDViIer5PQ" autocomplete="off" />
+          <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="SelectMenu-item js-update-url-with-hash " data-turbo="false" action="/JokerWuXin/ChatGpt-LineBot/edit/main/api/prompt.py" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="Sei5APtxAywjo_EvMCC0-cXUkJPXUFYcplGTcLMsvfH6UdpvaSunFOqEIzlE6h8pfEwUjS_waqXFPrefD9OXGg" autocomplete="off" />
               <button title="Fork this repository and edit the file" type="submit" data-view-component="true" class="btn-invisible btn width-full d-flex flex-justify-between color-fg-default text-normal p-0">    <div class="mr-5">Edit this file</div>
               <div class="color-fg-muted">E</div>
 </button></form>
@@ -2587,7 +2664,7 @@
               <div class="mr-5 no-wrap">Open in github.dev</div>
               <div class="color-fg-muted">.</div>
 </a>
-            <a data-platforms="windows,mac" aria-label="Open this file in GitHub Desktop" href="x-github-client://openRepo/https://github.com/JokerWuXin/ChatGpt-LineBot?branch=main&amp;filepath=vercel.json" data-view-component="true" class="SelectMenu-item no-wrap js-remove-unless-platform width-full text-normal color-fg-default f5">
+            <a data-platforms="windows,mac" aria-label="Open this file in GitHub Desktop" href="x-github-client://openRepo/https://github.com/JokerWuXin/ChatGpt-LineBot?branch=main&amp;filepath=api%2Fprompt.py" data-view-component="true" class="SelectMenu-item no-wrap js-remove-unless-platform width-full text-normal color-fg-default f5">
               Open in GitHub Desktop
 </a>        </div>
       </div>
@@ -2598,10 +2675,10 @@
 
         
 <div >
-  <remote-clipboard-copy class="d-inline-block btn-octicon" style="height: 26px" data-src="/JokerWuXin/ChatGpt-LineBot/raw/6524108afed8816dd07f5dd002e25f609f40ca0f/vercel.json" data-action="click:remote-clipboard-copy#remoteCopy">
+  <remote-clipboard-copy class="d-inline-block btn-octicon" style="height: 26px" data-src="/JokerWuXin/ChatGpt-LineBot/raw/6524108afed8816dd07f5dd002e25f609f40ca0f/api/prompt.py" data-action="click:remote-clipboard-copy#remoteCopy">
   
 
-  <span data-target="remote-clipboard-copy.idle">      <span class="tooltipped tooltipped-nw cursor-pointer" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;COPY_RAW_CONTENTS_BUTTON&quot;,&quot;repository_id&quot;:579339428,&quot;originating_url&quot;:&quot;https://github.com/JokerWuXin/ChatGpt-LineBot/blob/main/vercel.json&quot;,&quot;user_id&quot;:34676256}}" data-hydro-click-hmac="4ec93f1aa9d0a826b5990405b18df66a073b34122de1fc955823a04b39b9873f" aria-label="Copy raw contents">
+  <span data-target="remote-clipboard-copy.idle">      <span class="tooltipped tooltipped-nw cursor-pointer" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;COPY_RAW_CONTENTS_BUTTON&quot;,&quot;repository_id&quot;:579339428,&quot;originating_url&quot;:&quot;https://github.com/JokerWuXin/ChatGpt-LineBot/blob/main/api/prompt.py&quot;,&quot;user_id&quot;:34676256}}" data-hydro-click-hmac="e909a18d9c4112abf767040c21c578cc84907deabf3fbb8dc89b43c8413d3aea" aria-label="Copy raw contents">
         <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-copy">
     <path fill-rule="evenodd" d="M0 6.75C0 5.784.784 5 1.75 5h1.5a.75.75 0 010 1.5h-1.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 00.25-.25v-1.5a.75.75 0 011.5 0v1.5A1.75 1.75 0 019.25 16h-7.5A1.75 1.75 0 010 14.25v-7.5z"></path><path fill-rule="evenodd" d="M5 1.75C5 .784 5.784 0 6.75 0h7.5C15.216 0 16 .784 16 1.75v7.5A1.75 1.75 0 0114.25 11h-7.5A1.75 1.75 0 015 9.25v-7.5zm1.75-.25a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25h-7.5z"></path>
 </svg>
@@ -2626,7 +2703,7 @@
 </remote-clipboard-copy></div>
 
 
-          <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="inline-form" data-turbo="false" action="/JokerWuXin/ChatGpt-LineBot/delete/main/vercel.json" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="MjhW5OVHJ49HGvq7KUBkbck-6uDFWM0N34erdLH_thAB_ch34WTINk6DsTHahWeibeq2gtCODiijoojV_Ksbgw" />
+          <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="inline-form" data-turbo="false" action="/JokerWuXin/ChatGpt-LineBot/delete/main/api/prompt.py" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="1HNkZhi5Jg0x1XkShuu3s9ygM2Fqgzsr6DS2_dRHnqkyeXhxJZQovK66Z39P-b5aztMazE3LKLWdnT5_7pZX0g" />
             <button class="btn-octicon btn-octicon-danger tooltipped tooltipped-nw" type="submit"
               aria-label="Fork this repository and delete the file" data-disable-with>
               <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-trash">
@@ -2654,20 +2731,20 @@
             <li>
                 <a class="dropdown-item tooltipped tooltipped-nw js-remove-unless-platform"
                    data-platforms="windows,mac"
-                   href="x-github-client://openRepo/https://github.com/JokerWuXin/ChatGpt-LineBot?branch=main&amp;filepath=vercel.json">
+                   href="x-github-client://openRepo/https://github.com/JokerWuXin/ChatGpt-LineBot?branch=main&amp;filepath=api%2Fprompt.py">
                   Open with Desktop
                 </a>
             </li>
           <li>
-            <a class="dropdown-item" href="/JokerWuXin/ChatGpt-LineBot/raw/main/vercel.json">
+            <a class="dropdown-item" href="/JokerWuXin/ChatGpt-LineBot/raw/main/api/prompt.py">
               View raw
             </a>
           </li>
             <li>
-              <remote-clipboard-copy class="dropdown-item" data-src="/JokerWuXin/ChatGpt-LineBot/raw/main/vercel.json" data-action="click:remote-clipboard-copy#remoteCopy">
+              <remote-clipboard-copy class="dropdown-item" data-src="/JokerWuXin/ChatGpt-LineBot/raw/main/api/prompt.py" data-action="click:remote-clipboard-copy#remoteCopy">
   
 
-  <span data-target="remote-clipboard-copy.idle">                  <span class="cursor-pointer" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;COPY_RAW_CONTENTS_BUTTON&quot;,&quot;repository_id&quot;:579339428,&quot;originating_url&quot;:&quot;https://github.com/JokerWuXin/ChatGpt-LineBot/blob/main/vercel.json&quot;,&quot;user_id&quot;:34676256}}" data-hydro-click-hmac="4ec93f1aa9d0a826b5990405b18df66a073b34122de1fc955823a04b39b9873f">
+  <span data-target="remote-clipboard-copy.idle">                  <span class="cursor-pointer" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;COPY_RAW_CONTENTS_BUTTON&quot;,&quot;repository_id&quot;:579339428,&quot;originating_url&quot;:&quot;https://github.com/JokerWuXin/ChatGpt-LineBot/blob/main/api/prompt.py&quot;,&quot;user_id&quot;:34676256}}" data-hydro-click-hmac="e909a18d9c4112abf767040c21c578cc84907deabf3fbb8dc89b43c8413d3aea">
                     Copy raw contents
 </span></span>
   <span data-target="remote-clipboard-copy.fetching" hidden="hidden">                  Copy raw contents
@@ -2690,20 +2767,20 @@
 </span>
 </remote-clipboard-copy>            </li>
             <li>
-              <a class="dropdown-item" href="/JokerWuXin/ChatGpt-LineBot/blame/main/vercel.json">
+              <a class="dropdown-item" href="/JokerWuXin/ChatGpt-LineBot/blame/main/api/prompt.py">
                 View blame
               </a>
             </li>
 
               <li class="dropdown-divider" role="none"></li>
               <li>
-                <a class="dropdown-item" href="/JokerWuXin/ChatGpt-LineBot/edit/main/vercel.json">Edit file</a>
+                <a class="dropdown-item" href="/JokerWuXin/ChatGpt-LineBot/edit/main/api/prompt.py">Edit file</a>
               </li>
                 <li>
                   <a data-dropdown-tracking="{&quot;type&quot;:&quot;blob_edit_dropdown.dev_link_click&quot;,&quot;context&quot;:{&quot;repository_id&quot;:579339428,&quot;actor_id&quot;:34676256,&quot;edit_enabled&quot;:true,&quot;small_screen&quot;:true}}" href="https://github.dev/" data-view-component="true" class="dropdown-item js-github-dev-shortcut js-blob-dropdown-click">Open with github.dev</a>
                 </li>
               <li>
-                <a class="dropdown-item menu-item-danger" href="/JokerWuXin/ChatGpt-LineBot/delete/main/vercel.json">Delete file</a>
+                <a class="dropdown-item menu-item-danger" href="/JokerWuXin/ChatGpt-LineBot/delete/main/api/prompt.py">Delete file</a>
               </li>
         </ul>
       </details>
@@ -2712,7 +2789,7 @@
 
 
       
-    <div itemprop="text" class="Box-body p-0 blob-wrapper data type-json  gist-border-0">
+    <div itemprop="text" class="Box-body p-0 blob-wrapper data type-python  gist-border-0">
 
         
 <div class="js-check-bidi js-blob-code-container blob-code-content">
@@ -2740,62 +2817,111 @@
 </svg>
 </span></template>
 
-  <table data-hpc class="highlight tab-size js-file-line-container js-code-nav-container js-tagsearch-file" data-tab-size="8" data-paste-markdown-skip data-tagsearch-lang="JSON" data-tagsearch-path="vercel.json">
+  <table data-hpc class="highlight tab-size js-file-line-container js-code-nav-container js-tagsearch-file" data-tab-size="8" data-paste-markdown-skip data-tagsearch-lang="Python" data-tagsearch-path="api/prompt.py">
         <tr>
           <td id="L1" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="1"></td>
-          <td id="LC1" class="blob-code blob-code-inner js-file-line">{</td>
+          <td id="LC1" class="blob-code blob-code-inner js-file-line"><span class=pl-k>import</span> <span class=pl-s1>os</span></td>
         </tr>
         <tr>
           <td id="L2" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="2"></td>
-          <td id="LC2" class="blob-code blob-code-inner js-file-line">  <span class="pl-ent">&quot;builds&quot;</span>: [</td>
+          <td id="LC2" class="blob-code blob-code-inner js-file-line">
+</td>
         </tr>
         <tr>
           <td id="L3" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="3"></td>
-          <td id="LC3" class="blob-code blob-code-inner js-file-line">    {</td>
+          <td id="LC3" class="blob-code blob-code-inner js-file-line"><span class=pl-s1>chat_language</span> <span class=pl-c1>=</span> <span class=pl-s1>os</span>.<span class=pl-en>getenv</span>(<span class=pl-s>&quot;INIT_LANGUAGE&quot;</span>, <span class=pl-s1>default</span> <span class=pl-c1>=</span> <span class=pl-s>&quot;zh&quot;</span>)</td>
         </tr>
         <tr>
           <td id="L4" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="4"></td>
-          <td id="LC4" class="blob-code blob-code-inner js-file-line">      <span class="pl-ent">&quot;src&quot;</span>: <span class="pl-s"><span class="pl-pds">&quot;</span>api/index.py<span class="pl-pds">&quot;</span></span>,</td>
+          <td id="LC4" class="blob-code blob-code-inner js-file-line">
+</td>
         </tr>
         <tr>
           <td id="L5" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="5"></td>
-          <td id="LC5" class="blob-code blob-code-inner js-file-line">      <span class="pl-ent">&quot;use&quot;</span>: <span class="pl-s"><span class="pl-pds">&quot;</span>@vercel/python<span class="pl-pds">&quot;</span></span></td>
+          <td id="LC5" class="blob-code blob-code-inner js-file-line"><span class=pl-v>MSG_LIST_LIMIT</span> <span class=pl-c1>=</span> <span class=pl-en>int</span>(<span class=pl-s1>os</span>.<span class=pl-en>getenv</span>(<span class=pl-s>&quot;MSG_LIST_LIMIT&quot;</span>, <span class=pl-s1>default</span> <span class=pl-c1>=</span> <span class=pl-c1>20</span>))</td>
         </tr>
         <tr>
           <td id="L6" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="6"></td>
-          <td id="LC6" class="blob-code blob-code-inner js-file-line">    }</td>
+          <td id="LC6" class="blob-code blob-code-inner js-file-line"><span class=pl-v>LANGUAGE_TABLE</span> <span class=pl-c1>=</span> {</td>
         </tr>
         <tr>
           <td id="L7" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="7"></td>
-          <td id="LC7" class="blob-code blob-code-inner js-file-line">  ],</td>
+          <td id="LC7" class="blob-code blob-code-inner js-file-line">  <span class=pl-s>&quot;zh&quot;</span>: <span class=pl-s>&quot;嗨！&quot;</span>,</td>
         </tr>
         <tr>
           <td id="L8" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="8"></td>
-          <td id="LC8" class="blob-code blob-code-inner js-file-line">  <span class="pl-ent">&quot;routes&quot;</span>: [</td>
+          <td id="LC8" class="blob-code blob-code-inner js-file-line">  <span class=pl-s>&quot;en&quot;</span>: <span class=pl-s>&quot;Hi!&quot;</span></td>
         </tr>
         <tr>
           <td id="L9" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="9"></td>
-          <td id="LC9" class="blob-code blob-code-inner js-file-line">    {</td>
+          <td id="LC9" class="blob-code blob-code-inner js-file-line">}</td>
         </tr>
         <tr>
           <td id="L10" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="10"></td>
-          <td id="LC10" class="blob-code blob-code-inner js-file-line">      <span class="pl-ent">&quot;src&quot;</span>: <span class="pl-s"><span class="pl-pds">&quot;</span>/(.*)<span class="pl-pds">&quot;</span></span>,</td>
+          <td id="LC10" class="blob-code blob-code-inner js-file-line">
+</td>
         </tr>
         <tr>
           <td id="L11" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="11"></td>
-          <td id="LC11" class="blob-code blob-code-inner js-file-line">      <span class="pl-ent">&quot;dest&quot;</span>: <span class="pl-s"><span class="pl-pds">&quot;</span>api/index.py<span class="pl-pds">&quot;</span></span></td>
+          <td id="LC11" class="blob-code blob-code-inner js-file-line"><span class=pl-k>class</span> <span class=pl-v>Prompt</span>:</td>
         </tr>
         <tr>
           <td id="L12" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="12"></td>
-          <td id="LC12" class="blob-code blob-code-inner js-file-line">    }</td>
+          <td id="LC12" class="blob-code blob-code-inner js-file-line">    <span class=pl-k>def</span> <span class=pl-en>__init__</span>(<span class=pl-s1>self</span>):</td>
         </tr>
         <tr>
           <td id="L13" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="13"></td>
-          <td id="LC13" class="blob-code blob-code-inner js-file-line">  ]</td>
+          <td id="LC13" class="blob-code blob-code-inner js-file-line">        <span class=pl-s1>self</span>.<span class=pl-s1>msg_list</span> <span class=pl-c1>=</span> []</td>
         </tr>
         <tr>
           <td id="L14" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="14"></td>
-          <td id="LC14" class="blob-code blob-code-inner js-file-line">}</td>
+          <td id="LC14" class="blob-code blob-code-inner js-file-line">        <span class=pl-s1>self</span>.<span class=pl-s1>msg_list</span>.<span class=pl-en>append</span>(<span class=pl-s>f&quot;AI:<span class=pl-s1><span class=pl-kos>{</span><span class=pl-v>LANGUAGE_TABLE</span>[<span class=pl-s1>chat_language</span>]<span class=pl-kos>}</span></span>&quot;</span>)</td>
+        </tr>
+        <tr>
+          <td id="L15" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="15"></td>
+          <td id="LC15" class="blob-code blob-code-inner js-file-line">    </td>
+        </tr>
+        <tr>
+          <td id="L16" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="16"></td>
+          <td id="LC16" class="blob-code blob-code-inner js-file-line">    <span class=pl-k>def</span> <span class=pl-en>add_msg</span>(<span class=pl-s1>self</span>, <span class=pl-s1>new_msg</span>):</td>
+        </tr>
+        <tr>
+          <td id="L17" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="17"></td>
+          <td id="LC17" class="blob-code blob-code-inner js-file-line">        <span class=pl-k>if</span> <span class=pl-en>len</span>(<span class=pl-s1>self</span>.<span class=pl-s1>msg_list</span>) <span class=pl-c1>&gt;=</span> <span class=pl-v>MSG_LIST_LIMIT</span>:</td>
+        </tr>
+        <tr>
+          <td id="L18" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="18"></td>
+          <td id="LC18" class="blob-code blob-code-inner js-file-line">            <span class=pl-s1>self</span>.<span class=pl-en>remove_msg</span>()</td>
+        </tr>
+        <tr>
+          <td id="L19" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="19"></td>
+          <td id="LC19" class="blob-code blob-code-inner js-file-line">        <span class=pl-s1>self</span>.<span class=pl-s1>msg_list</span>.<span class=pl-en>append</span>(<span class=pl-s1>new_msg</span>)</td>
+        </tr>
+        <tr>
+          <td id="L20" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="20"></td>
+          <td id="LC20" class="blob-code blob-code-inner js-file-line">
+</td>
+        </tr>
+        <tr>
+          <td id="L21" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="21"></td>
+          <td id="LC21" class="blob-code blob-code-inner js-file-line">    <span class=pl-k>def</span> <span class=pl-en>remove_msg</span>(<span class=pl-s1>self</span>):</td>
+        </tr>
+        <tr>
+          <td id="L22" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="22"></td>
+          <td id="LC22" class="blob-code blob-code-inner js-file-line">        <span class=pl-s1>self</span>.<span class=pl-s1>msg_list</span>.<span class=pl-en>pop</span>(<span class=pl-c1>0</span>)</td>
+        </tr>
+        <tr>
+          <td id="L23" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="23"></td>
+          <td id="LC23" class="blob-code blob-code-inner js-file-line">
+</td>
+        </tr>
+        <tr>
+          <td id="L24" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="24"></td>
+          <td id="LC24" class="blob-code blob-code-inner js-file-line">    <span class=pl-k>def</span> <span class=pl-en>generate_prompt</span>(<span class=pl-s1>self</span>):</td>
+        </tr>
+        <tr>
+          <td id="L25" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="25"></td>
+          <td id="LC25" class="blob-code blob-code-inner js-file-line">        <span class=pl-k>return</span> <span class=pl-s>&#39;<span class=pl-cce>\n</span>&#39;</span>.<span class=pl-en>join</span>(<span class=pl-s1>self</span>.<span class=pl-s1>msg_list</span>)</td>
         </tr>
   </table>
 </div>
@@ -2821,7 +2947,7 @@
             Copy permalink
           </clipboard-copy>
         </li>
-        <li><a class="dropdown-item js-update-url-with-hash" id="js-view-git-blame" role="menuitem" href="/JokerWuXin/ChatGpt-LineBot/blame/6524108afed8816dd07f5dd002e25f609f40ca0f/vercel.json">View git blame</a></li>
+        <li><a class="dropdown-item js-update-url-with-hash" id="js-view-git-blame" role="menuitem" href="/JokerWuXin/ChatGpt-LineBot/blame/6524108afed8816dd07f5dd002e25f609f40ca0f/api/prompt.py">View git blame</a></li>
           <li><a class="dropdown-item" id="js-new-issue" role="menuitem" href="/JokerWuXin/ChatGpt-LineBot/issues/new">Reference in new issue</a></li>
       </ul>
     </details-menu>
@@ -2843,6 +2969,17 @@
 </button>
 </form>    </details-dialog>
   </details>
+
+    <div class="Popover anim-scale-in js-tagsearch-popover"
+     hidden
+     data-tagsearch-url="/JokerWuXin/ChatGpt-LineBot/find-definition"
+     data-tagsearch-ref="main"
+     data-tagsearch-code-nav-context="BLOB_VIEW">
+  <div class="Popover-message Popover-message--large Popover-message--top-left TagsearchPopover mt-1 mb-4 mx-auto Box color-shadow-large">
+    <div class="TagsearchPopover-content js-tagsearch-popover-content overflow-auto" style="will-change:transform;">
+    </div>
+  </div>
+</div>
 
 
 
